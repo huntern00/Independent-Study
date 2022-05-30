@@ -7,7 +7,7 @@ results.
 
 # Student Learning OutCome:
 Upon successful completion of this course, students will be able to:
-• Describe three cryptographic algorithms.
+- Describe three cryptographic algorithms.
 • Use three cryptographic algorithms to encrypt and decrypt.
 • Identify, create and establish parameters for algorithm performance evaluation.
 • Perform load tests
