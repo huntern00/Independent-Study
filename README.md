@@ -1,4 +1,4 @@
-# Independent-Study - Performance Evaluation of Cryptography Algorithms
+# Performance Evaluation of Cryptography Algorithms
 # Course Desription: 
 The study requires the performance comparison between three cryptographic algorithms. Three algorithms
 are identified and criteria (e.g. objects to encrypt) for their evaluation are set. The algorithms are exercised
