@@ -15,3 +15,8 @@ Upon successful completion of this course, students will be able to:
 - Report and present results of the entire study
 
 # Abstract: 
+Cryptography is the study of techniques for secure communication. We know cryptography can 
+be used in many ways, but we wanted to test the performance of a handful of algorithms. Using 
+some different text inputs, we were able to compare the difference in speeds of the algorithms 
+picked. The result was that 3DES has a longer encryption time when compared to RSA and SHA-256 but RSA has a longer encryption time compared to 3DES. 
+Keywords: algorithms, cryptography, encryption, decryption, hashing, public/private keys
